@@ -1,4 +1,6 @@
+#notes on while loops
 # Given:
+
 colors = ["red", "blue", "green", "yellow", "purple"]
 
 # Challenge:
